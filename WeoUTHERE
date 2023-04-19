@@ -1,3 +1,4 @@
+<DOCTYPE html>
 <p>IP Address: <span id="ip"></span></p>
 <p>Location: <span id="location"></span></p>
 
@@ -17,4 +18,4 @@
       console.error(error);
     });
 </script>
-
+</html>
